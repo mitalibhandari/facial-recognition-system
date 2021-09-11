@@ -22,7 +22,6 @@
 
 **Example of results**
 
-<img width="273" alt="oie_1203930kwL6CbCV" src="https://user-images.githubusercontent.com/84052591/132963280-2397c9a2-8ec6-4e95-a724-19095af833fc.png">
-<img width="320" alt="oie_12040120hpPoaQY" src="https://user-images.githubusercontent.com/84052591/132963282-5fa316be-ae5e-40d1-9905-46c604ef2682.png">
-<img width="341" alt="oie_1204043rUBsGLX6" src="https://user-images.githubusercontent.com/84052591/132963284-cfbd6756-1e7e-45e3-a3a7-9d0f2f7872df.png">
-
+<img width="500" alt="oie_1204238a6uGZhDE" src="https://user-images.githubusercontent.com/84052591/132963337-f55653aa-cbb2-4e24-850b-1345580b996d.png">
+<img width="557" alt="oie_120433UqKh0WuD" src="https://user-images.githubusercontent.com/84052591/132963339-a481348b-a6bb-4869-90f1-c2e68c59492d.png">
+<img width="525" alt="oie_1204359CnNSPPog" src="https://user-images.githubusercontent.com/84052591/132963342-e403833d-1549-4132-b42f-762f23ac89d0.png">
