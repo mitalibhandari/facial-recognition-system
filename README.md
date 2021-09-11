@@ -3,7 +3,8 @@
 **Libraries Used:** face_recognition, OpenCV, OS
 
 - I have used _OpenCV_ for labelling on the images and _OS_ for working with the directories.
-- I have created two directories, known_faces and unknown_faces. Inside known_faces I have added three images of elon musk and in unknown_faces, I have added images I intend to label.
+- I have created two directories, known_faces and unknown_faces. Inside known_faces I have added three images of elon musk and in unknown_faces, 
+I have added images I intend to label.
 
 **Known_directory**
 
@@ -19,7 +20,13 @@
 ![oie_111948217DjgtY2H](https://user-images.githubusercontent.com/84052591/132956754-f89204d8-5881-4b3e-98cb-f5eb84fd2822.jpg)
 ![oie_11194754zNjN3r2T](https://user-images.githubusercontent.com/84052591/132956757-ca0f33cd-b9ca-4d5a-90de-e70718b0498f.png)
 
-
+- I used the tolerance of 0.6 for the face recognition and hog model to analyze the visual image 
+- Firstly, I iterated over the known faces directory, loaded images, encoded each face (128 dimesion face encoding) and stored the encodings. 
+- After that, I terated over the unknown directory and compared to the known faces. 
+- After finding a match with any of the known faces, I drew the rectangle around it. 
+- Lastly, I painted the frame around the face and wrote name. 
+- Used imshow from OpenCV to display the images.
+ 
 **Example of results**
 
 <img width="500" alt="oie_1204238a6uGZhDE" src="https://user-images.githubusercontent.com/84052591/132963337-f55653aa-cbb2-4e24-850b-1345580b996d.png">
