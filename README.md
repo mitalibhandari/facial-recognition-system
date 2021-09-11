@@ -11,7 +11,8 @@
 
 - Unknown_directory
 
-![images](https://user-images.githubusercontent.com/84052591/132956445-fbe73c12-0024-45f9-88e9-b638637596ac.jpeg)
 ![Elon-Musk-1_602a498376e02](https://user-images.githubusercontent.com/84052591/132956446-0f0f4538-ed66-479d-b6a4-1db39ddd382c.png)
-![inr0ht58_elon-musk-elon-musk-old-pic_625x300_12_January_21](https://user-images.githubusercontent.com/84052591/132956490-931040b2-ff18-4b43-bed6-54dc04cf4dbc.jpg)
+![oie_111943123aY81j85](https://user-images.githubusercontent.com/84052591/132956588-44cfded6-8321-4a5a-a787-a892cf77e038.jpg)
+![oie_11194235h794k682](https://user-images.githubusercontent.com/84052591/132956594-da03f170-689a-4618-a821-047b842c11ac.jpg)
+
 
