@@ -1,3 +1,4 @@
+<img width="995" alt="Screen Shot 2021-09-10 at 7 39 49 PM" src="https://user-images.githubusercontent.com/84052591/132963237-7dc41dde-b070-44e9-aed8-c8b1689f9839.png">
 # Facial Recognition System Using Python
 
 **Libraries Used:** face_recognition, OpenCV, OS
@@ -26,5 +27,6 @@
 
 <img width="1072" alt="Screen Shot 2021-09-10 at 7 40 24 PM" src="https://user-images.githubusercontent.com/84052591/132963198-f99b2d82-42e0-4cb8-9d92-f3c2dd118724.png">
 
-![inr0ht58_elon-musk-elon-musk-old-pic_625x300_12_January_21](https://user-images.githubusercontent.com/84052591/132963228-295720a6-7255-4c9f-8004-7035dbbecb89.jpg)
+<img width="995" alt="Screen Shot 2021-09-10 at 7 39 49 PM" src="https://user-images.githubusercontent.com/84052591/132963242-661a4452-c26d-4c93-a1e1-928f3ae1f53b.png">
+
 
