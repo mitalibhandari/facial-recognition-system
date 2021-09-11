@@ -13,7 +13,7 @@
 
 ![oie_11194235h794k682](https://user-images.githubusercontent.com/84052591/132956594-da03f170-689a-4618-a821-047b842c11ac.jpg)
 
-**Unnown_directory**
+**Unknown_directory**
 
 ![oie_11194851DopTQftn](https://user-images.githubusercontent.com/84052591/132956747-b53f9ca0-53ef-41d0-b764-2b9f36acae32.jpg)
 ![oie_111948217DjgtY2H](https://user-images.githubusercontent.com/84052591/132956754-f89204d8-5881-4b3e-98cb-f5eb84fd2822.jpg)
