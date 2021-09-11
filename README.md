@@ -20,3 +20,8 @@
 ![oie_11194754zNjN3r2T](https://user-images.githubusercontent.com/84052591/132956757-ca0f33cd-b9ca-4d5a-90de-e70718b0498f.png)
 
 
+**Example of results**
+
+<img width="555" alt="Screen Shot 2021-09-10 at 7 39 28 PM" src="https://user-images.githubusercontent.com/84052591/132963196-7103806e-19c2-4680-b46f-9067b2ff0609.png">
+![inr0ht58_elon-musk-elon-musk-old-pic_625x300_12_January_21](https://user-images.githubusercontent.com/84052591/132963197-23c836e5-ed0d-4cb4-b23a-cb58ebe4bf53.jpg)
+<img width="1072" alt="Screen Shot 2021-09-10 at 7 40 24 PM" src="https://user-images.githubusercontent.com/84052591/132963198-f99b2d82-42e0-4cb8-9d92-f3c2dd118724.png">
