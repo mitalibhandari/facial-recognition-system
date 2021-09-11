@@ -1,4 +1,3 @@
-<img width="995" alt="Screen Shot 2021-09-10 at 7 39 49 PM" src="https://user-images.githubusercontent.com/84052591/132963237-7dc41dde-b070-44e9-aed8-c8b1689f9839.png">
 # Facial Recognition System Using Python
 
 **Libraries Used:** face_recognition, OpenCV, OS
@@ -23,10 +22,7 @@
 
 **Example of results**
 
-<img width="555" alt="Screen Shot 2021-09-10 at 7 39 28 PM" src="https://user-images.githubusercontent.com/84052591/132963196-7103806e-19c2-4680-b46f-9067b2ff0609.png">
-
-<img width="1072" alt="Screen Shot 2021-09-10 at 7 40 24 PM" src="https://user-images.githubusercontent.com/84052591/132963198-f99b2d82-42e0-4cb8-9d92-f3c2dd118724.png">
-
-<img width="995" alt="Screen Shot 2021-09-10 at 7 39 49 PM" src="https://user-images.githubusercontent.com/84052591/132963242-661a4452-c26d-4c93-a1e1-928f3ae1f53b.png">
-
+<img width="273" alt="oie_1203930kwL6CbCV" src="https://user-images.githubusercontent.com/84052591/132963280-2397c9a2-8ec6-4e95-a724-19095af833fc.png">
+<img width="320" alt="oie_12040120hpPoaQY" src="https://user-images.githubusercontent.com/84052591/132963282-5fa316be-ae5e-40d1-9905-46c604ef2682.png">
+<img width="341" alt="oie_1204043rUBsGLX6" src="https://user-images.githubusercontent.com/84052591/132963284-cfbd6756-1e7e-45e3-a3a7-9d0f2f7872df.png">
 
